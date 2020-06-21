@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "elqy7slMbjFSA0zUqppI8neN5+EOkuque8q6V2Slgb/CVfrjNkG+bW8seqOmRXyuzI3Fx8WDh9rhJhxe5peDDQ==",
+  "dgSpecHash": "WP5FUmbhzu1JkNjxnMO+Fr6kDXWvh1ahKc5uA+ZVggeLz7luXgq7uHdIRi+6IDD5LBjnHby3f/aERkFK/Rxm4g==",
   "success": true,
-  "projectFilePath": "H:\\Projects\\FilmLibraryTest\\FilmLibraryTest.API\\FilmLibraryTest.API.csproj",
+  "projectFilePath": "h:\\Projects\\FilmsLibraryTest\\FilmLibraryTest.API\\FilmLibraryTest.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\banda\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.0.0\\microsoft.aspnetcore.authentication.abstractions.2.0.0.nupkg.sha512",
     "C:\\Users\\banda\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.0.0\\microsoft.aspnetcore.authentication.core.2.0.0.nupkg.sha512",

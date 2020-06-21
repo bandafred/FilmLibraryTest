@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Projects\\FilmLibraryTest\\FilmLibraryTest.API\\FilmLibraryTest.API.csproj": {}
+    "h:\\Projects\\FilmsLibraryTest\\FilmLibraryTest.API\\FilmLibraryTest.API.csproj": {}
   },
   "projects": {
-    "H:\\Projects\\FilmLibraryTest\\FilmLibraryTest.API\\FilmLibraryTest.API.csproj": {
+    "h:\\Projects\\FilmsLibraryTest\\FilmLibraryTest.API\\FilmLibraryTest.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Projects\\FilmLibraryTest\\FilmLibraryTest.API\\FilmLibraryTest.API.csproj",
+        "projectUniqueName": "h:\\Projects\\FilmsLibraryTest\\FilmLibraryTest.API\\FilmLibraryTest.API.csproj",
         "projectName": "FilmLibraryTest.API",
-        "projectPath": "H:\\Projects\\FilmLibraryTest\\FilmLibraryTest.API\\FilmLibraryTest.API.csproj",
+        "projectPath": "h:\\Projects\\FilmsLibraryTest\\FilmLibraryTest.API\\FilmLibraryTest.API.csproj",
         "packagesPath": "C:\\Users\\banda\\.nuget\\packages\\",
-        "outputPath": "H:\\Projects\\FilmLibraryTest\\FilmLibraryTest.API\\obj\\",
+        "outputPath": "h:\\Projects\\FilmsLibraryTest\\FilmLibraryTest.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
