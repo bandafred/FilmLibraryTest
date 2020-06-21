@@ -1,0 +1,4 @@
+log.js:24 [HMR] Waiting for update signal from WDS...
+react-dom.development.js:25028 Download the React DevTools for a better development experience: https://fb.me/react-devtools
+getMap.js:38 e {options: {…}, _isFullscreen: false, _events: {…}, _initHooksCalled: true}options: {}_events: {click: Array(1)}_initHooksCalled: true_isFullscreen: false__proto__: e
+getMap.js:39 e {options: {…}, _isFullscreen: false, _events: {…}, _initHooksCalled: true}

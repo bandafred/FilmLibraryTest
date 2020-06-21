@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilmLibraryTest.API", "FilmLibraryTest.API\FilmLibraryTest.API.csproj", "{FE339EE1-4579-41DD-8ABC-A670EF0E43FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilmLibraryTest.Web", "FilmLibraryTest.Web\FilmLibraryTest.Web.csproj", "{294E8ECF-E1C4-41C9-8394-8AF6F0987D1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE339EE1-4579-41DD-8ABC-A670EF0E43FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE339EE1-4579-41DD-8ABC-A670EF0E43FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE339EE1-4579-41DD-8ABC-A670EF0E43FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE339EE1-4579-41DD-8ABC-A670EF0E43FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{294E8ECF-E1C4-41C9-8394-8AF6F0987D1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{294E8ECF-E1C4-41C9-8394-8AF6F0987D1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{294E8ECF-E1C4-41C9-8394-8AF6F0987D1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{294E8ECF-E1C4-41C9-8394-8AF6F0987D1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E49D4DA-82B9-4508-9B3B-9C4895E76C6A}
+	EndGlobalSection
+EndGlobal
