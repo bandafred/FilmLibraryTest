@@ -12,7 +12,7 @@
     "hoist-non-react-statics": "^3.3.0",
     "hookrouter": "^1.2.3",
     "jquery": "^3.5.1",
-    "merge": "1.2.1",
+    "merge": "2.1.1",
     "react": "16.11.0",
     "react-dom": "16.11.0",
     "react-infinite-scroll-component": "^5.0.4",
